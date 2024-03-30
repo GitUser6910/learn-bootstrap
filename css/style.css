@@ -1,0 +1,18 @@
+#kor {
+  color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+footer a i {
+  color: black;
+  border: solid;
+  padding: 2px;
+  border-radius: 10px;
+}
+
+footer a i:hover {
+  background-color: black;
+  border: solid black;
+  color: white;
+  transition: ease 0.2s;
+}
